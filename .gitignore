@@ -51,6 +51,9 @@ coverage.xml
 .pytest_cache/
 cover/
 
+#Ignor hesla k síti
+pripojeni.py
+
 # Translations
 *.mo
 *.pot
