@@ -52,7 +52,7 @@ coverage.xml
 cover/
 
 #Ignor hesla k síti
-pripojeni.py
+SQL/pripojeni.py
 
 # Translations
 *.mo
